@@ -47,7 +47,7 @@ p {
 	height: 100%;
 
 }
- 
+
 @font-face {
 	font-family: 'Noe-Display-Bold';
 	src: url('Noe-Display-Bold.otf');
@@ -67,6 +67,7 @@ p {
 .video iframe {
 	display: block;
 	margin: auto;
+	padding: 30px;
 }
 
 .CV {
