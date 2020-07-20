@@ -58,6 +58,7 @@ p {
 	text-align: left;
 	margin: auto;
 	margin-top: 50px;
+	margin-bottom: 100px;
 }
 
 .soustitre {
@@ -85,4 +86,8 @@ p {
 .titre {
 	text-align: center;
 
+}
+
+.log {
+	width: 100%;
 }
